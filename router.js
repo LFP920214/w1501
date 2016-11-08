@@ -1,4 +1,4 @@
-/*修复引入外部js问题 修复 when问题*/
+/*修复引入外部js问题 修复 when的问题*/
 function router(obj) {
     this.view = obj;
     this.info = [];
